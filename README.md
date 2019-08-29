@@ -13,7 +13,7 @@ Get Ip Tool , Open Source -  Enjoy!
 -----
 # About
 
-It is simply a simple tool - converting hostname to IP
+It is a simple tool - converting hostname to IP
 
 # First
 

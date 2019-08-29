@@ -28,7 +28,8 @@ cd GET_IP-Tool/
 
 # Finaly
 
-``` python3 osta_open.py
+``` 
+python3 osta_open.py
 
 ```
 

@@ -20,7 +20,11 @@ It is simply a simple tool - converting hostname to IP
 ```
 git clone https://github.com/MrOsta/GET_IP-Tool.git
 ```
+<img src="https://raw.githubusercontent.com/MrOsta/GET_IP-Tool/master/Step-Photos/First.png"/>
+
 # Second
+<img src="https://github.com/MrOsta/GET_IP-Tool/blob/master/Step-Photos/Second.png"/>
+
 ```
 cd GET_IP-Tool/
 ```
@@ -32,5 +36,8 @@ cd GET_IP-Tool/
 python3 osta_open.py
 
 ```
+<img src="https://github.com/MrOsta/GET_IP-Tool/blob/master/Step-Photos/Finaly.png"/>
+
 
 # ENJOY <3
+<img src="https://giphy.com/gifs/heart-teamo-team-o-26BRv0ThflsHCqDrG"/>

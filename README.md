@@ -40,4 +40,4 @@ python3 osta_open.py
 
 
 # ENJOY <3
-<img src="https://giphy.com/gifs/heart-teamo-team-o-26BRv0ThflsHCqDrG"/>
+<img src="https://raw.githubusercontent.com/MrOsta/GET_IP-Tool/master/enjoy.png"/>

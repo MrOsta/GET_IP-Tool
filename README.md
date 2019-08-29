@@ -30,7 +30,7 @@ cd GET_IP-Tool/
 ```
 
 
-# Finaly
+# Finally
 
 ``` 
 python3 osta_open.py

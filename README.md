@@ -22,12 +22,12 @@ git clone https://github.com/MrOsta/GET_IP-Tool.git
 ```
 <img src="https://raw.githubusercontent.com/MrOsta/GET_IP-Tool/master/Step-Photos/First.png"/>
 
-# Second
-<img src="https://github.com/MrOsta/GET_IP-Tool/blob/master/Step-Photos/Second.png"/>
-
 ```
 cd GET_IP-Tool/
 ```
+
+# Second
+<img src="https://github.com/MrOsta/GET_IP-Tool/blob/master/Step-Photos/Second.png"/>
 
 
 # Finally
